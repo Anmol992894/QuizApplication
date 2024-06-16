@@ -1,0 +1,28 @@
+.small-bodi{
+    display: none !important;
+}
+
+
+.score-bodie{
+    width: 100%;
+    height: 100vh;
+}
+
+@media screen and (max-width:1250px){
+    .bodi{
+        display: none;
+    }
+    .bodie{
+        width: 100%;
+        height: 100vh;
+    }
+    .small-bodi{
+        display: flex !important;
+        width: 600px;
+        height: 200px;
+        background-color: rgb(172, 172, 172);
+    }
+    }
+    
+
+
